@@ -86,6 +86,8 @@ To setup your prefered searches add a variable called `rootSearches`:
 * `wolf`: [Wolfram Alpha](https://www.wolframalpha.com/)
 * `youtube`: [YouTube](https://www.youtube.com/)
 * `thing`: [Thingiverse](https://www.thingiverse.com/)
+* `wdef`: [Wordreference En/Fr](https://www.wordreference.com/enfr/)
+* `wdfe`: [Wordreference Fr/En](https://www.wordreference.com/fren/)
 
 ## Screenshot
 
